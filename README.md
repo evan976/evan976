@@ -11,6 +11,7 @@ I'm **Evan**, a wild programmer.
 - :hammer_and_pick: HTML/CSS/JavaScript, and a little bit Java
 - :pencil2: iTerm / Oh My Zsh / VS Code / Chrome ...
 - 🌱 Nestjs and React
+- :man: Pronouns: he/him
 - 📫 wjh50949@163.com
 - 😄 ...
 
