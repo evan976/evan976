@@ -8,10 +8,10 @@
 
 I'm **Evan**, a wild programmer.
 
-- :hammer_and_pick: language: HTML/CSS/JavaScript, and a little bit Java
-- :pencil2: development tools: iTerm / Oh My Zsh / VS Code / Chrome
-- 🌱 currently learning: Nestjs and React
-- 📫 contact me: wjh50949@163.com
+- :hammer_and_pick: HTML/CSS/JavaScript, and a little bit Java
+- :pencil2: iTerm / Oh My Zsh / VS Code / Chrome ...
+- 🌱 Nestjs and React
+- 📫 wjh50949@163.com
 - 😄 ...
 
 ## Technology stack 💻
