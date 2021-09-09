@@ -28,6 +28,6 @@ I'm **Evan**, a wild programmer.
 ---
 
 ### :bar_chart: Weekly development breakdown
-[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=evanwu">](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evanwu)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
