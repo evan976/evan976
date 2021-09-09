@@ -26,10 +26,3 @@ I'm **Evan**, a wild programmer.
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 - 📫 Contact me: wjh50940@163.com
 - ⚡️ Fun fact: Less talking, more working
-
----
-
-### :bar_chart: Weekly development breakdown
-
-[![Evan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evanwu)](https://github.com/anuraghazra/github-readme-stats)
-
