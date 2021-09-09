@@ -2,7 +2,7 @@
 
 -->
 
-## Hi Evan there 👋
+### 👋 Hi Evan there
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wujihua118&theme=dark&show_icons=true">](https://metrics.lecoq.io/wujihua118?template=classic)
 
@@ -14,7 +14,9 @@ I'm **Evan**, a wild programmer.
 - 📫 wjh50949@163.com
 - 😄 ...
 
-## Technology stack 💻
+---
+
+### 💻 Technology stack
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
