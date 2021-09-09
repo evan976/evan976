@@ -12,7 +12,7 @@ I'm **Evan**, a wild programmer.
 - :pencil2: iTerm / Oh My Zsh / VS Code / Chrome ...
 - 🌱 Nestjs and React
 - :man: he / him
-- 📫 wjh50949@163.com
+- 📫 wjh50940@163.com
 - 😄 ...
 
 ---
