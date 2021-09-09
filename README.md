@@ -9,11 +9,9 @@
 I'm **Evan**, a wild programmer.
 
 - :hammer_and_pick: language: HTML/CSS/JavaScript, and a little bit Java
-- :pencil2: development tools: iTerm / Oh My Zsh / VS Code / Chrome ...
+- :pencil2: development tools: iTerm / Oh My Zsh / VS Code / Chrome
 - 🌱 currently learning: Nestjs and React
 - 📫 contact me: wjh50949@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## Technology stack
 
