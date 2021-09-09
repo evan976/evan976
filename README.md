@@ -15,18 +15,16 @@ I'm **Evan**, a wild programmer.
 - :pencil2: I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-  ![iTerm](https://img.shields.io/badge/-iTerm-black?style=flat&logo=iTerm2)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 - ⚙️ I also use and work:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+  ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0094F5?style=flat&logo=antdesign)
 - 🌱 Recently learning about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat&logo=Node.js)
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=flat&logo=Express.JS)
   ![Nest.JS](https://img.shields.io/badge/-Nest.JS-EF2D5E?style=flat&logo=nestjs)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-- 📫 wjh50940@163.com
+- 📫 Contact me: wjh50940@163.com
 - ⚡️ Fun fact: Less talking, more working
 
 ---
