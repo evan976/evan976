@@ -12,6 +12,7 @@ I'm **Evan**, a wild programmer.
 - :pencil2: development tools: iTerm / Oh My Zsh / VS Code / Chrome
 - 🌱 currently learning: Nestjs and React
 - 📫 contact me: wjh50949@163.com
+- 😄 ...
 
 ## Technology stack
 
