@@ -2,7 +2,7 @@
 
 -->
 
-### 👋 Hi Evan there
+### 👋 Hi Evan here
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wujihua118&theme=dark&show_icons=true">](https://metrics.lecoq.io/wujihua118?template=classic)
 
