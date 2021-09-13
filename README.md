@@ -24,11 +24,11 @@ I'm **Evan**, a wild programmer.
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat&logo=Node.js)
   ![Nest.JS](https://img.shields.io/badge/-Nest.JS-EF2D5E?style=flat&logo=nestjs)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-- 📫 Contact me: wjh50940@163.com
-- ⚡️ Fun fact: Less talking, more working
+- 📫  Contact me: wjh50940@163.com
+- ⚡️  Fun fact: Less talking, more working
 
 ---
 
-📊 &nbsp;**This week I spent my time on**
+### 📊 &nbsp;This week I spent my time on
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?langs_count=4&hide_title=true)
