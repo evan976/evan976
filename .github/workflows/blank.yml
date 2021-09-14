@@ -1,16 +1,15 @@
-name: WakaTime Readme
-
+name: Update gist with WakaTime stats
 on:
-  push:
-    branches:
-      - master
   schedule:
-    - cron: '0 19 * * *'
-
+    - cron: "0 0 * * *"
 jobs:
-  update-readme:
+  update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: wujihua118/wujihua118@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 044118e2d7213fd099024acecef4c5db
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
