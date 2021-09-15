@@ -31,5 +31,5 @@ I'm **Evan**, a wild programmer.
 
 ### 📊 &nbsp;This week I spent my time on
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=evanwu&langs_count=5&hide_title=true)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=evanwu&langs_count=4&hide_title=true)
 
