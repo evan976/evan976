@@ -11,6 +11,6 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: wujihua118/wujihua118@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
