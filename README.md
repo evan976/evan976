@@ -7,8 +7,8 @@
 I'm **Evan**, a wild programmer.
 
 <div>
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=wujihua118&theme=radical&show_icons=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujihua118&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wujihua118&theme=radical&show_icons=true">
+  <img height="180em" style="margin_left: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujihua118&layout=compact">
 <div>
   
 <div style="display: inline-block;"><br />
