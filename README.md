@@ -8,7 +8,7 @@ I'm **Evan**, a wild programmer.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wujihua118&theme=radical&show_icons=true">
-  <img height="180em" style="margin_left: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujihua118&layout=compact">
+  <img height="180em" style="margin_left: 24px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujihua118&layout=compact">
 <div>
   
 <div style="display: inline-block;"><br />
@@ -23,9 +23,8 @@ I'm **Evan**, a wild programmer.
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" align="center" alt="nodejs" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" align="center" alt="nestjs" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" align="center" alt="vite" height="30" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="center" alt="git" height="30" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" align="center" alt="notion" height="30" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="center" alt="notion" height="30" width="40">
 </div>
-  
-##
-  
-![Snake animation](https://github.com/wujihua118/wujihua118/blob/output/github-contribution-grid-snake.svg)
 
