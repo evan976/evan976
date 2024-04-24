@@ -19,12 +19,12 @@ I'm **Evan**, a wild programmer.
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" align="center" alt="tailwindcss" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" align="center" alt="vue" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" align="center" alt="react" height="30" width="40">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" align="center" alt="nextjs" height="30" width="40">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" align="center" alt="nodejs" height="30" width="40">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" align="center" alt="nestjs" height="30" width="40">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" align="center" alt="next" height="30" width="40">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" align="center" alt="node" height="30" width="40">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" align="center" alt="nest" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" align="center" alt="vite" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="center" alt="git" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" align="center" alt="notion" height="30" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="center" alt="notion" height="30" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="center" alt="vscode" height="30" width="40">
 </div>
 
