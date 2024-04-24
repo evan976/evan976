@@ -2,9 +2,11 @@
 
 -->
 
-### 👋 Hi Evan here
+### 👋 Hi, I'm Evan
 
-I'm **Evan**, a wild programmer, I build user interface.💻
+🤏 A wild programmer.
+
+💻 I build user interface.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wujihua118&theme=radical&show_icons=true">
