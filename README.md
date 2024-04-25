@@ -27,6 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" align="center" alt="vite" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="center" alt="git" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" align="center" alt="notion" height="30" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" align="center" alt="google" height="30" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" align="center" alt="github" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="center" alt="vscode" height="30" width="40">
 </div>
 
