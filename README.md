@@ -4,7 +4,7 @@
 
 ### 👋 Hi, I'm Evan
 
-🤏 A wild programmer.
+🤏 A Full-Stack Developer.
 
 💻 I build user interface.
 
