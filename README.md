@@ -4,9 +4,9 @@
 
 ### 👋 Hi, I'm Evan
 
-🤏 A Full-Stack Developer.
+👨‍💻 A frontend developer.
 
-💻 I build user interface.
+🌏 I build user interface.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan976&theme=radical&show_icons=true">
