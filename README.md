@@ -4,7 +4,7 @@
 
 ### 👋 Hi, I'm Evan
 
-👨‍💻 A frontend developer.
+👨‍💻 Frontend Developer.
 
 🌏 I build user interface.
 
