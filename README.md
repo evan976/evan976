@@ -7,11 +7,6 @@
 👨‍💻 Frontend/Design Engineer.
 
 ⌨️ I build user interface.
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan976&theme=radical&show_icons=true">
-  <img height="180em" style="margin_left: 24" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan976&layout=compact">
-<div>
   
 <div style="display: inline-block;"><br />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" align="center" alt="javascript" height="30" width="40">
