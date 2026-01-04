@@ -7,6 +7,34 @@
 👨‍💻 Frontend/Design Engineer.
 
 ⌨️ I build user interface.
+
+<a href="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976" />
+  </picture>
+</a>
+
+<a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976" />
+  </picture>
+</a>
   
 <div style="display: inline-block;"><br />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" align="center" alt="javascript" height="30" width="40">
