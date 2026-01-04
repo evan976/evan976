@@ -8,35 +8,39 @@
 
 ⌨️ I build user interface.
 
-<a href="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976" />
-  </picture>
-</a>
+<div>
+  <a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=donut">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&theme=dark&layout=donut"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=donut"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=donut" />
+    </picture>
+  </a>
+</div>
 
-<a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=compact">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&theme=dark&layout=compact"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=compact" />
-  </picture>
-</a>
+<div>
+  <a href="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976" />
+    </picture>
+  </a>
+</div>
   
-<div style="display: inline-block;"><br />
+<div style="display: inline-block;">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" align="center" alt="javascript" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" align="center" alt="typescript" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" align="center" alt="html5" height="30" width="40">
