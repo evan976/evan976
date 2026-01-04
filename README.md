@@ -16,7 +16,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=donut"
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&theme=light&layout=donut"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=donut" />
@@ -32,7 +32,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976"
+        srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976&theme=light"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=evan976" />
