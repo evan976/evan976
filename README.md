@@ -22,17 +22,17 @@
   </picture>
 </a>
 
-<a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976">
+<a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=compact">
   <picture>
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&theme=dark"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&theme=dark&layout=compact"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evan976&layout=compact" />
   </picture>
 </a>
   
