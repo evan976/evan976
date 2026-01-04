@@ -40,7 +40,7 @@
   </a>
 </div>
   
-<div style="display: inline-block;">
+<div style="display: inline-block;"><br />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" align="center" alt="javascript" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" align="center" alt="typescript" height="30" width="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" align="center" alt="html5" height="30" width="40">
